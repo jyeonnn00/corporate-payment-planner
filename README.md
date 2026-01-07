@@ -1,7 +1,7 @@
 # USD/MYR Payment Planner & Forecasting Dashboard
 
 Submitted by Group: GROUP 3
-Subject: SQITK307 (B)
+/n Subject: SQITK307 (B)
 
 ### Group Members
 1. NUR SYADIRA NADHIRAH BINTI MOHD SUHAIMI - 307027
