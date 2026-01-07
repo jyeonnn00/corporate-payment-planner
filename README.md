@@ -1,4 +1,4 @@
-# Corporate USD Invoice Payment Planner
+# USD/MYR Payment Planner & Forecasting Dashboard
 
 Submitted by Group: GROUP 3
 Subject: SQITK307 (B)
